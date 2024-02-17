@@ -36,6 +36,9 @@ Two main algorithms were employed to build the menu recommendation system:
 - Text preprocessing techniques like tokenization, stop-word removal, and stemming were applied to extract meaningful information from the text.
 - Sentiment analysis may have been performed to understand the sentiment of user reviews and incorporate it into the recommendation system.
 
+## A/B Testing:
+A/B testing was conducted to assess the effectiveness of menu modifications. This involved presenting different versions of the menu to users and analyzing the impact on key metrics such as average order value and customer engagement.
+
 ## Results and Evaluation:
 The menu recommendation system was evaluated using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score. The performance of the system was analyzed based on the quality of recommendations generated, user satisfaction, and the ability to adapt to new user preferences over time.
 
