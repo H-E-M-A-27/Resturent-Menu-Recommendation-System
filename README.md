@@ -3,6 +3,8 @@
 ## Introduction:
 The purpose of this project is to develop a menu recommendation system that suggests personalized menu items to users based on their preferences and past interactions. In today's digital age, providing personalized recommendations can significantly enhance user experience and increase customer satisfaction in various domains, including restaurants, e-commerce, and entertainment platforms.
 
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*axX8QIb5cx9QMQsj" width="600">
+
 ## Data Collection:
 General data about menu items, user ratings, and user interactions was collected from various sources such as online restaurant reviews, e-commerce platforms, and social media. The data includes information about users, items (menu items), and ratings provided by users for different items.
 
