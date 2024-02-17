@@ -11,6 +11,17 @@ General data about menu items, user ratings, and user interactions was collected
 ## Data Preprocessing:
 Before building the recommendation system, the collected data underwent preprocessing steps to ensure its quality and usability. This included handling missing values, filtering out irrelevant information, and encoding categorical variables. Additionally, data normalization may have been performed to bring all features to a similar scale.
 
+## Data Consideration:
+To build the menu recommendation system, several variables were considered:
+
+1. **Menu Items**: A list of menu items offered by the restaurant, including various dishes, beverages, and desserts.
+
+2. **User Preferences**: Information about user preferences, which can be gathered from past orders, ratings, reviews, and interactions with menu items.
+
+3. **Ratings**: Ratings provided by users for menu items. Ratings typically range from 1 to 5, indicating the level of satisfaction with the item.
+
+4. **User Interactions**: User interactions with menu items, such as views, clicks, orders, and reviews, can provide valuable insights into user preferences and behavior.
+
 ## Algorithms Used:
 Two main algorithms were employed to build the menu recommendation system:
 
